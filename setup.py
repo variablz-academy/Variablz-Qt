@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='variablz',
-    version='0.1.2',
-    description='''Welcome to the Variablz Library! This library provides a collection of utility functions tailored 
-    for both software developers using PyQt libraries and data science/machine learning engineers. It's designed to 
+    name='variablz_qt',
+    version='0.0.2',
+    description='''Welcome to the Variablz QT Library! This library provides a collection of utility functions tailored 
+    for software developers using PyQt libraries It's designed to 
     simplify common tasks, enhance productivity, and facilitate learning, especially for students at Variablz 
     Academy.''',
     packages=find_packages(),
